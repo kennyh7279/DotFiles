@@ -1,0 +1,3 @@
+# Golang
+export GOBIN=$GOROOT/bin
+PATH=$PATH:$GOPATH:$GOBIN
