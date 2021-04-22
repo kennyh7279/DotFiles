@@ -1,3 +1,2 @@
 # Golang
-export GOBIN=$GOROOT/bin
-PATH=$PATH:$GOPATH:$GOBIN
+export PATH=$PATH:/usr/local/go/bin
