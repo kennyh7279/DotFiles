@@ -15,3 +15,12 @@
 
 ### Scripts and whatnot
 * .local/bin folder
+
+
+Add the following to .bashrc/.zshrc
+```
+## Check for personal bash settings and source
+if [ -f "$HOME/.shell-personal" ]; then
+  . $HOME/.bash-personal
+fi
+```
