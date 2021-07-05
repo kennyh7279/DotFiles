@@ -1,11 +1,11 @@
-## Personal dot files and configurations
+# Personal dot files and configurations
 
 * i3
 * i3 status
 * bspwm
 * polybar
 * vimrc
-* bashrc
+* bashrc (in [add-to-shell](add-to-shell))
 * alacritty
 * termite
 * dunst
@@ -13,9 +13,8 @@
 * rofi
 * sxhkd
 
-### Scripts and whatnot
+## Scripts and whatnot
+
 * .local/bin folder
 
-
-run `setup.sh`
-works for me, ymmv
+### [Changelog](CHANGELOG.md)
